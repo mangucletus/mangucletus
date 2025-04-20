@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mangu Cletus 
-- 👀 I’m interested in Building Web Applications and related Tech Stuffs
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Web development Projects
+- 👋 Hi, I’m Cletus Mangu 
+- 👀 I’m interested in building AWS Cloud and DevOps Solutions
+- 🌱 I’m currently learning DevOps Engineering 
+- 💞️ I’m looking to collaborate on cloud computing Projects
 
 
 <!---
